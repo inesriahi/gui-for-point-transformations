@@ -13,14 +13,15 @@ It is a python GUI for image transformations built using Tkinter
 
 ## Screenshots
 
-**Histogram Equalization:**
+**Histogram Equalization:**<br>
 ![Histogram Equalization](screenshots/1.png)
 
- <hr />
-**Linear Stretching:**
+<hr />
+
+**Linear Stretching:**<br>
 ![Linear Stretching](screenshots/2.png)
 
- <hr />
+<hr />
 
-**Power Transformation:**
+**Power Transformation:**<br>
 ![Power Transformation](screenshots/3.png)
